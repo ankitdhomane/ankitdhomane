@@ -73,11 +73,6 @@ This approach has helped me succeed in **FAANG-style environments**, fast-moving
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitdhomane&show_icons=true&hide_title=true)
-
----
-
 ## 🎯 What I’m Looking For
 - **FAANG / Big Tech**: Large-scale data, experimentation platforms, product analytics  
 - **Startups**: Ownership, speed, building analytics from zero → one  
